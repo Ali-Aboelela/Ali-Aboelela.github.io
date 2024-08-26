@@ -1,0 +1,27 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Pagination from '../../components/Pagination.astro';
+import siteConfig from '../../data/site-config';
+import { sortItemsByDateDesc } from '../../utils/data-utils';
+import CareerPreview from '../../components/CareerPreview.astro';
+import Intro from '../../components/Intro.astro';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const career = (await getCollection('career')).sort(sortItemsByDateDesc);
+    return paginate(career, { pageSize: siteConfig.itemsPerPage || 6 });
+}
+
+type Props = { page: Page<CollectionEntry<'career'>> };
+
+const { page } = Astro.props;
+const portfolio = page.data;
+---
+
+<BaseLayout title="Portfolio" description="" image={{ src: '', alt: '' }} showHeader={false}>
+    <h1 class="leading-tight font-serif italic text-5xl">Career</h1>
+    <Intro />
+    {portfolio.map((career) => <CareerPreview career={career} class="mb-10 sm:mb-12" />)}
+    <Pagination page={page} class="my-16 sm:my-24" />
+</BaseLayout>

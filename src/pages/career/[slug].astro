@@ -1,0 +1,36 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { sortItemsByDateDesc } from '../../utils/data-utils';
+import CareerPreview from '../../components/CareerPreview.astro';
+
+export async function getStaticPaths() {
+    const career = (await getCollection('career')).sort(sortItemsByDateDesc);
+    const milestoneCount = career.length;
+    return career.map((milestone, index) => ({
+        params: { slug: milestone.slug },
+        props: {
+            milestone,
+            prevMilestone: index + 1 !== milestoneCount ? career[index + 1] : null,
+            nextMilestone: index !== 0 ? career[index - 1] : null
+        }
+    }));
+}
+
+type Props = { milestone: CollectionEntry<'career'>; prevMilestone: CollectionEntry<'career'>; nextMilestone: CollectionEntry<'career'> };
+
+const { milestone, prevMilestone, nextMilestone } = Astro.props;
+const { title, description, seo } = milestone.data;
+const { Content } = await milestone.render();
+---
+
+<BaseLayout title={seo?.title ?? title} description={seo?.description ?? description} image={seo?.image} pageType="article" showHeader={false}>
+    <article class="mb-16 sm:mb-24">
+        <header class="mb-8">
+            <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{title}</h1>
+        </header>
+        <div class="max-w-none prose prose-dante sm:prose-lg">
+            <Content />
+        </div>
+    </article>
+</BaseLayout>
