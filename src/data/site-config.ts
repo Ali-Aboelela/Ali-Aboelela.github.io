@@ -87,21 +87,6 @@ const siteConfig: SiteConfig = {
             href: 'https://www.linkedin.com/in/ali-aboelela-32955a178/'
         }
     ],
-    hero: {
-        //title: 'Hi There & Welcome to My Corner of the Web!',
-        text:
-            `I'm **Ali Aboelela** (the sibling on the right). I’m a software engineer. I’m a problem driven person. I let problems I care about guide my long term professional and personal goals, as well as my decision making. Some of the problems I care about include food, energy security and sustainable cities more broadly as related to the climate crisis.<br><br>For more info on my technical skills and interests, please check out the careers tab. There you’ll also find articles detailing and reflecting on some of the important experiences I’ve had in my professional career. Outside of work I love the outdoors. Check out my blog for everything else.`,
-        image: {
-            src: '/hero.JPG',
-            alt: 'A picture of ali with his siblings'
-        }
-        //actions: [
-        //    {
-        //        text: 'Get in Touch',
-        //        href: '/contact'
-        //    }
-        //]
-    },
     //subscribe: {
     //    title: 'Subscribe to Dante Newsletter',
     //    text: 'One update per week. All the latest posts directly in your inbox.',
