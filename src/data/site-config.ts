@@ -80,7 +80,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Github',
-            href: 'https://github.com/AliLovesTrees'
+            href: 'https://github.com/Ali-Aboelela'
         },
         {
             text: 'LinkedIn',
