@@ -72,11 +72,7 @@ Finally, I have to highlight <a href='#aps420'>APS420 - Technology, Engineering,
  
 **What's next for Ali?**
 
-Generally I want to continue my career as a software engineer, diligently cultivating those engineering skills that are independent of  specialization. I also want to focus on growing my technical skills in ML and data science more broadly.
-
-I think what attracts me to data science is how it's inherently problem driven. Garbage in, garbage out i.e.: In any good project that involves data; data must be collected with intention. There are questions being asked, insights to be extracted in order to make informed decisions about a real problem. Also, decades of research from brilliant mathematicians, statisticians, and computer scientists have gone into this field. All this to say modern libraries make it pretty easy to build really 'powerful', and potentially useful models. 
-
-Career wise, I hope I'll get an opportunity to use these skills in a setting that lets me work on interesting and real problems, something like a public sector position. I would also love to continue my education in something like an applied/intersectional   data science program. A dream program for example would be UChicago's Masters in Computational Analysis and Public Policy. 
+Generally I want to continue my career as a software engineer, diligently cultivating those engineering skills that are independent of  specialization. I also want to focus on growing my technical skills in ML and data science more broadly. Career wise, I hope I'll get an opportunity to use these skills in a setting that lets me work on interesting and real problems, something like a public sector position.
  
 ## Noteworthy Courses
 
