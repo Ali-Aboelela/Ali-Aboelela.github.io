@@ -2,6 +2,7 @@
 title: 'Computer Engineering at the University of Toronto'
 description: 'In this article I reflect on my university experience. This is a reflection on the educational component, my interests over the course of university, and how the experience has shaped my career goals.'
 publishDate: 'Jan 02 2024'
+tags:
 ---
 
 
@@ -26,7 +27,9 @@ I entered UofT engineering under the Track One (undeclared) stream, later declar
 
 **Maintaining a Passion for Learning**
 
-Although I started to fall out of love with the program, I remained passionate about learning and funneled my energy into the topics I was curious of. The 2nd year of the ECE program was very heavy - but if nothing else it identified to me my comfort in programming, and software engineering more generally. Enjoying and being successful in my programming courses like <a href="#ece244">ECE244 & ECE297</a> gave me a sense of confidence and certainty in the direction I was specializing. By the end of 2nd year I had a better understanding of how fundamental the collaborative aspect of programming is both in the open source community and in industry. It gave me a newfound appreciation of the of the open source community which embodied (in my opinion) the essence of programming: reusing each others code to solve problems.
+Although I started to fall out of love with the program, I remained passionate about learning and funneled my energy into the topics I was curious of. The 2nd year of the ECE program was very heavy - but if nothing else it identified to me my comfort in programming, and software engineering more generally. Enjoying and being successful in my programming courses like <a href="#ece244">ECE244 & ECE297</a> gave me a sense of confidence and certainty in the direction I was specializing.
+
+By the end of my second year, I realized how essential collaboration is in programming, both in open source and industry. This also gave me a deeper understanding of how programming and software engineering are organized, with developers building on top of each others' code to create new solutions.
 
 ## A Gap in the Engineering Curriculum
 My issue is I felt my interests and the direction of the engineering curriculum were slightly out of sync. It felt like the curriculum prioritized equipping me with the skills to (in order):
@@ -94,7 +97,7 @@ I do feel I adopted a systems approach to thinking over the course of my degree.
 
 **ECE244 - Programming Fundamentals**
 
-This course rigorously covered the fundamental concepts of object oriented programming. It also went into depth on how memory is managed. This was particularly insightful since I was taking a computer architecture course at the same time. Overall gave me the confidence in my ability to learn new languages and technologies.
+This course rigorously covered the fundamental concepts of object oriented programming. It also went into depth on how memory is managed. This was particularly insightful since I was taking a computer architecture course at the same time. Overall gave me the confidence in my ability to learn new programming languages and libraries/technologies.
 
 **ECE297 - Software Communication and Design**
 
@@ -104,7 +107,7 @@ The main goal was to develop a functional Geographic Information System (GIS) by
 
 This is probably the only course project I worked on where time complexity actually mattered since N (# of street intersections) was so large for some maps (like Tokyo ) that code had to be efficient to deliver a usable app.
 
-The final deliverable of the project was implementing a version of the travelling salesman problem (link to wikipedia). This was actually a great opportunity for me to apply "Leetcode hard" level concepts like memoization to solve a problem efficiently.
+The final deliverable of the project was implementing a version of the <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">travelling salesman problem</a>. This was actually a great opportunity for me to apply "Leetcode hard" level concepts like memoization to solve a problem efficiently.
 
 ---
 <div id="aps360" id = "mat291"></div>

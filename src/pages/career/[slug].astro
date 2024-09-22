@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 import CareerPreview from '../../components/CareerPreview.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
 
 export async function getStaticPaths() {
     const career = (await getCollection('career')).sort(sortItemsByDateDesc);
@@ -20,7 +21,7 @@ export async function getStaticPaths() {
 type Props = { milestone: CollectionEntry<'career'>; prevMilestone: CollectionEntry<'career'>; nextMilestone: CollectionEntry<'career'> };
 
 const { milestone, prevMilestone, nextMilestone } = Astro.props;
-const { title, description, seo } = milestone.data;
+const { title, description, publishDate, updatedDate, seo } = milestone.data;
 const { Content } = await milestone.render();
 ---
 
