@@ -50,7 +50,7 @@ Have you seen the average GO Train station in a GTA suburb?
 
 They're just massive parking lots. Transit stations should be the center of human activity, not car storage. The space is absolutely inhospitable to pedestrians or anything that isn't in a vehicle.
 
-This setup not only wastes valuable l and but also reinforces car dependency, defeating the purpose of developing a public transit system in the first place. Going from place to place via public transit should be convenient, you shouldn't have to put much thought into how you'll "plug in" to the network. In other words: you shouldn't have to travel significant distances to reach the closest station. The transit station should be embedded within a walkable neighborhood or commercial area - not a pitstop that requires you to be in a car. 
+This setup not only wastes valuable land but also reinforces car dependency, defeating the purpose of developing a public transit system in the first place. Going from place to place via public transit should be convenient, you shouldn't have to put much thought into how you'll "plug in" to the network. In other words: you shouldn't have to travel significant distances to reach the closest station. The transit station should be embedded within a walkable neighborhood or commercial area - not a pitstop that requires you to be in a car. 
 
 Demand is induced. If at any point we are *forcing* people to use cars to access the public transit system, then the system is already a failure. Obviously stations need to accommodate cars, but the stations need to be designed around the human first.
 
@@ -82,15 +82,18 @@ We have acknowledged that the poor connectivity of the GO Train is a result of i
 
 By focusing only on transporting workers to Toronto, the GO system reinforces the segregation of suburban communities along cultural lines, leaving little room for cross-suburban social interaction. This perpetuates cultural isolation, as many Canadians are confined to their respective communities, with limited exposure to others. Of course cars exist and the GO Train layout isn't solely responsible, but the cultural divide between the GTA's suburbs is real.
 
-In university I remember a professor using the term "Cultural Mosaic" to describe Canada, as opposed to the US's "Cultural Melting Pot".  By focusing on car-dependent, ***commuter-based*** transit, the GO system unintentionally contributes to the conditions that create this cultural divide.
+In university I remember a professor using the term "Cultural Mosaic" to describe Canada, as opposed to the US's "Cultural Melting Pot".  By focusing on car-dependent, ***commuter-based*** transit, the GO system unintentionally contributes to the conditions that create this cultural divide. As material living conditions for the working class worsen for reasons outside the scope of this article, countries including Canada turn to increasingly hostile "culture war" narratives. High quality, frequent intersuburb transit systems can act as a healing factor by creating the conditions for communities to exchange their culture and experiences organically.
+
 ### **Metrolinx is Improving**
 
 The things I'm saying aren't controversial or new. Metrolinx already recognizes all of this and is working on some exciting projects.
 
-Within the City of Toronto, Metrolinx continues its great work with the Ontario Line. In the suburbs, Metrolinx is helping set up light rail transit (LRT) systems like the **Hurontario LRT** in Mississauga, the **Hamilton LRT**, and the **Eglinton Crosstown West Extension**. These projects are essential steps toward improving transit accessibility outside of Toronto's core, offering alternatives to car travel and linking suburban communities with major transit hubs. The GO Expansion, which aims to provide all-day, two-way service, will also enhance connectivity in suburbs like Barrie, Stouffville, and Kitchener.
+Within the City of Toronto, Metrolinx continues its great work with the Ontario Line. It also continues to aggressively expand the Bike Share program. Check out <a>my analysis on it.</a>
+
+In the suburbs, Metrolinx is helping set up light rail transit (LRT) systems like the **Hurontario LRT** in Mississauga, the **Hamilton LRT**, and the **Eglinton Crosstown West Extension**. These projects are essential steps toward improving transit accessibility outside of Toronto's core, offering alternatives to car travel and linking suburban communities with major transit hubs. The GO Expansion, which aims to provide all-day, two-way service, will also enhance connectivity in suburbs like Barrie, Stouffville, and Kitchener.
 
 Metrolinx also has a **Transit-Oriented Community (TOC)** initiative, designed to address the problems of car dependency by building mixed-use, high-density developments around transit stations.
 
 It remains to be seen if this will be executed correctly, given the various forces acting on Metrolinx. For example, [this CBC article](https://www.cbc.ca/news/canada/toronto/provincial-land-transit-hub-private-developer-sale-1.6330555) discusses the sale of parking space near **Port Credit** to land developers. It highlights how the need for _affordable_ housing is often at odds with the city's desire to maximize returns on the sale of prime real estate (which would require fewer restrictions on how the land is developed) for future transit investment.
 
-It will certainly take decades of focused, intentional work to reverse the effects of decades of car-centric city planning, but Metrolinx is taking the right steps by prioritizing transit-friendly development across the region. Their recognition of these issues through initiatives like the TOC gives some hope for the future of public transit in the GTA.
+It will certainly take decades of focused, intentional work to reverse the effects of decades of car-centric city planning, but Metrolinx is taking the right steps by prioritizing transit-friendly development across the region. Their recognition of these issues through initiatives like TOCs and Toronto BikeShare gives some hope for the future of public transit in the GTA.
