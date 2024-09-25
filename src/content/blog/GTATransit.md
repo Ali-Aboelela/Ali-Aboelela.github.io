@@ -80,8 +80,6 @@ We have acknowledged that the poor connectivity of the GO Train is a result of i
 
 <img src="/assets/system-map.png">
 
-By focusing only on transporting workers to Toronto, the GO system reinforces the segregation of suburban communities along cultural lines, leaving little room for cross-suburban social interaction. This perpetuates cultural isolation, as many Canadians are confined to their respective communities, with limited exposure to others. Of course cars exist and the GO Train layout isn't solely responsible, but the cultural divide between the GTA's suburbs is real.
-
 In university I remember a professor using the term "Cultural Mosaic" to describe Canada, as opposed to the US's "Cultural Melting Pot".  By focusing on car-dependent, ***commuter-based*** transit, the GO system unintentionally contributes to the conditions that create this cultural divide. As material living conditions for the working class worsen for reasons outside the scope of this article, countries including Canada turn to increasingly hostile "culture war" narratives. High quality, frequent intersuburb transit systems can act as a healing factor by creating the conditions for communities to exchange their culture and experiences organically.
 
 ### **Metrolinx is Improving**
