@@ -22,6 +22,8 @@ const portfolio = page.data;
 <BaseLayout title="Portfolio" description="" image={{ src: '', alt: '' }} showHeader={false}>
     <h1 class="leading-tight font-serif italic text-5xl">Career</h1>
     <Intro />
+
+    <!-- Wrap this in a div to control its size, then you can add other components of your portfolio to the bottom -->
     {portfolio.map((career) => <CareerPreview career={career} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />
 </BaseLayout>
