@@ -40,7 +40,7 @@ Meanwhile, my priorities looked like
 
 Other students or professors may argue global development / engineering is woven into our program - citing courses like PPG402: Public policy analysis for engineers or <a href=#aps420>APS420: Tech, Eng, & Global Development</a>. Although I agree, these are non-technical electives which were super limited in an engineering degree. We don't the majority of engineering graduates dreaming to work for Microsoft, Nvidia, Raytheon, Chevron, Palantir or whatever is "hot" these days. We need engineers to be graduating with more complete world views and more intention in their career.
 
-I don't mean to speak on behalf of engineers nor would I ever accuse us of being apathetic to our social responsibilities - or worse. I only mean to have a more in depth conversation on how political will and economic factors influence where engineering talent is deployed in our society.
+I don't mean to speak on behalf of engineers nor would I ever accuse us of being apathetic to our social responsibilities - or worse. I only mean to have a more in depth conversation on how political will and economic factors influence where engineering talent is deployed in our society. 
   
 In engineering education, we don't adequately explore the political and economic factors that shape how resources are allocated. As future engineers, we should be asking critical questions like:
 - What kind of engineering projects is capital currently flowing into, and what are the driving interests of both private and public stakeholders?
@@ -60,11 +60,11 @@ In my 3rd and 4th years I developed a clearer vision of what I wanted to study f
 
 First, I wanted to continue learning about ML, but much more generally about using statistical methods and computation to solve real world problems. <a href='#aps360'>APS360 - Applied Fundamentals of Machine Learning</a> was probably my favorite course in 3rd year and continued to foster my growing interest in ML. I loved the professor's balance between theory and labs. It gave me a practical (using PyTorch) understanding of the *basic* components used to build ML architectures.
 
-Second, I wanted to learn more about the field of robotics. I didn't get a chance to study it further in university (except briefly at UTRA in my last semester), but I made an active effort during my co-op's job search to find a role that would let me explore this interest. This is ultimately how I ended up at JCA. Their job description specifically mentioned ROS2 which I wanted to gain experience in.
+Second, I wanted to learn more about the field of robotics. I didn't get a chance to study it further in university (except briefly at UTRA in my last semester), but I made an active effort during my co-op's job search to find a role that would let me explore this interest. This is ultimately how I ended up at JCA Technologies, where I gained experience using ROS2.
 
 Outside of my technical interests I was still searching for guidance on how I can apply my engineering skills to worthy real world problems. APS420 piqued my interest. The learning outcomes were on how global development was historically conducted, and what things modern frameworks of international development try to do to be better. It also focused on the concepts of appropriate and inclusive technologies; concepts I will certainly keep in mind when interpreting problems and designing solutions in the future.
 
  
-**What's next for Ali?**
+**What's next for me?**
 
 Generally I want to continue my career as a software engineer, diligently cultivating those engineering skills that are independent of  specialization. I also want to focus on growing my technical skills in (broadly speaking) computational statistics, computer networking, and DevOps/Automation. Career wise, I hope I'll get an opportunity to use these skills in a setting that lets me work on interesting and real problems, something like a public sector position.
