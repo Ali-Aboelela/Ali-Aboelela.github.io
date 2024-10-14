@@ -3,6 +3,7 @@ title: 'Car-Centric Transit Infrastructure is a Generational Mistake'
 description:
 publishDate: 'September 20, 2024'
 tags: ['Transit']
+draft: True
 ---
 
 This article discusses public transit systems in the city of Toronto using the GO train network as a case study. It is a cautionary tale on the consequences and causes of car dependent public transit. It summarizes:
