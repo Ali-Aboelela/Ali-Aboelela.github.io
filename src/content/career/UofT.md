@@ -6,9 +6,7 @@ tags:
 ---
 
 
-In this article I reflect on my university experience. This is a reflection on the educational component, my interests over the course of university, and how the experience has shaped my career goals.  
-- I discuss my mindset at different points   
-- I highlight more *memorable courses*: my experience, the things I learned, and any projects I worked on.
+In this article I reflect on my university experience. This is a reflection on the educational component: my technical interests over the course of university, and how the experience has shaped my career goals.  
 
 ## Early Years
 
