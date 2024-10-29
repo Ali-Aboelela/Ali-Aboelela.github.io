@@ -10,7 +10,7 @@ In this article I reflect on my university experience. This is a reflection on t
 
 ## Early Years
 
-I entered UofT engineering under the Track One (undeclared) stream, later declaring my ECE major at the end of first year. After the excitement of first year wore off, I felt a dissatisfaction with what I was learning. It felt disconnected from real world problems. The content was highly theoretical - and it was very very rigorous. I enjoyed this rigor for the courses that I was interested in, but it felt like in a year's worth of studying there would be ~3-4 courses out of 10 I enjoyed. This wasn't a sustainable ratio - and naturally these difficult courses left me exhausted. 
+I entered UofT engineering under the Track One (undeclared) stream, later declaring my ECE major at the end of first year. After the excitement of first year wore off, I felt a dissatisfaction with what I was learning. It felt disconnected from real world problems. The content was highly theoretical - and it was very very rigorous. I enjoyed this rigor for the courses that I was interested in, but it felt like in a year's worth of studying there would be ~4-5 courses out of 10 I enjoyed. This wasn't a sustainable ratio - and naturally these difficult courses left me exhausted. 
 
 **Maintaining a Passion for Learning**
 
